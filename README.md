@@ -1,7 +1,7 @@
 KORA Connect
 ============
 
-KORA Connect is a WordPress plugin that allows you to display objects and assocated metadata from a KORA digital repository in WordPress posts and pages
+KORA Connect is a WordPress plugin that allows you to display objects and associated metadata from a KORA digital repository in WordPress posts and pages
 
 To Manually install KORA Connect:
 
